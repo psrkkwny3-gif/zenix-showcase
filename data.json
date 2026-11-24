@@ -1,551 +1,128 @@
 {
-  "#N50191": {
-    "status": "available",
-    "price": 5.3,
-    "level": 66,
-    "coll": 46,
-    "uc": 0,
-    "link": "https://t.me/ZENIX_SHOP_ON/684",
-    "updated": "2026-11-06T14:30:18"
-  },
-  "#N50196": {
-    "status": "available",
-    "price": 16.0,
-    "level": 77,
-    "coll": 61,
-    "uc": 380,
-    "link": "https://t.me/ZENIX_SHOP_ON/698",
-    "updated": "2026-11-06T14:59:24"
-  },
-  "#N333367": {
-    "status": "available",
-    "price": null,
-    "level": null,
-    "coll": null,
-    "uc": null,
-    "link": "https://t.me/ZENIX_SHOP_ON/950",
-    "updated": "2026-11-19T12:04:57"
-  },
-  "#N50197": {
-    "status": "available",
-    "price": 2.0,
-    "level": 69,
-    "coll": 42,
-    "uc": 4,
-    "link": "https://t.me/ZENIX_SHOP_ON/703",
-    "updated": "2026-11-06T15:03:25"
-  },
-  "#N50198": {
-    "status": "available",
-    "price": 13.0,
-    "level": 72,
-    "coll": 51,
-    "uc": 3,
-    "link": "https://t.me/ZENIX_SHOP_ON/706",
-    "updated": "2026-11-06T15:24:05"
-  },
-  "#N50199": {
-    "status": "available",
-    "price": 147.0,
-    "level": 85,
-    "coll": 73,
-    "uc": 2,
-    "link": "https://t.me/ZENIX_SHOP_ON/710",
-    "updated": "2026-11-06T15:49:10"
-  },
-  "#N50200": {
-    "status": "available",
-    "price": 11.4,
-    "level": 67,
-    "coll": 50,
-    "uc": 0,
-    "link": "https://t.me/ZENIX_SHOP_ON/714",
-    "updated": "2026-11-06T22:38:07"
-  },
-  "#N50201": {
-    "status": "available",
-    "price": 4.7,
-    "level": 75,
-    "coll": 53,
-    "uc": 1,
-    "link": "https://t.me/ZENIX_SHOP_ON/715",
-    "updated": "2026-11-06T22:38:07"
-  },
-  "#N50202": {
-    "status": "available",
-    "price": 56.0,
-    "level": 73,
-    "coll": 56,
-    "uc": 0,
-    "link": "https://t.me/ZENIX_SHOP_ON/716",
-    "updated": "2026-11-06T22:38:07"
-  },
-  "#N50203": {
-    "status": "available",
-    "price": 24.0,
-    "level": 78,
-    "coll": 60,
-    "uc": 362,
-    "link": "https://t.me/ZENIX_SHOP_ON/719",
-    "updated": "2026-11-06T22:39:39"
-  },
-  "#N50204": {
-    "status": "available",
-    "price": 107.0,
-    "level": 86,
-    "coll": 71,
-    "uc": 0,
-    "link": "https://t.me/ZENIX_SHOP_ON/734",
-    "updated": "2026-11-08T15:12:55"
-  },
-  "#N50205": {
+  "#N50001": {
     "status": "sold",
     "price": null,
     "level": null,
     "coll": null,
     "uc": null,
-    "link": "https://t.me/ZENIX_SHOP_ON/838",
-    "updated": "2026-11-13T18:16:50"
+    "link": "https://t.me/ZENIX_SHOP_ON/682",
+    "updated": "2026-11-05T12:14:03"
   },
-  "#N50206": {
-    "status": "available",
-    "price": 12.8,
-    "level": 70,
-    "coll": 45,
-    "uc": 4,
-    "link": "https://t.me/ZENIX_SHOP_ON/736",
-    "updated": "2026-11-08T15:12:55"
-  },
-  "#N50207": {
-    "status": "available",
-    "price": 9.0,
-    "level": 76,
-    "coll": 57,
-    "uc": 0,
-    "link": "https://t.me/ZENIX_SHOP_ON/737",
-    "updated": "2026-11-08T15:12:55"
-  },
-  "#N50208": {
+  "#N50188": {
     "status": "sold",
     "price": null,
     "level": null,
     "coll": null,
     "uc": null,
-    "link": "https://t.me/ZENIX_SHOP_ON/740",
-    "updated": "2026-11-08T15:12:55"
+    "link": "https://t.me/ZENIX_SHOP_ON/668",
+    "updated": "2026-11-05T11:33:05"
   },
-  "#N50209": {
+  "#N50187": {
     "status": "sold",
     "price": null,
     "level": null,
     "coll": null,
     "uc": null,
-    "link": "https://t.me/ZENIX_SHOP_ON/836",
-    "updated": "2026-11-13T18:16:50"
+    "link": "https://t.me/ZENIX_SHOP_ON/670",
+    "updated": "2026-11-05T11:33:26"
   },
-  "#N50210": {
-    "status": "available",
-    "price": 49.0,
-    "level": 77,
-    "coll": 61,
-    "uc": 0,
-    "link": "https://t.me/ZENIX_SHOP_ON/768",
-    "updated": "2026-11-12T13:05:39"
+  "#N50189": {
+    "status": "sold",
+    "price": null,
+    "level": null,
+    "coll": null,
+    "uc": null,
+    "link": "https://t.me/ZENIX_SHOP_ON/672",
+    "updated": "2026-11-05T11:33:51"
   },
-  "#N50211": {
+  "#N50194": {
     "status": "available",
     "price": 3.2,
-    "level": 63,
-    "coll": 41,
-    "uc": 0,
-    "link": "https://t.me/ZENIX_SHOP_ON/769",
-    "updated": "2026-11-12T13:05:39"
+    "level": 56,
+    "coll": 37,
+    "uc": 63,
+    "link": "https://t.me/ZENIX_SHOP_ON/674",
+    "updated": "2026-11-05T11:45:24"
   },
-  "#N50212": {
-    "status": "available",
-    "price": 3.3,
-    "level": 78,
-    "coll": 50,
-    "uc": 340,
-    "link": "https://t.me/ZENIX_SHOP_ON/804",
-    "updated": "2026-11-12T13:05:39"
-  },
-  "#N50213": {
+  "#N50195": {
     "status": "available",
     "price": 32.0,
-    "level": 82,
-    "coll": 67,
-    "uc": 440,
-    "link": "https://t.me/ZENIX_SHOP_ON/805",
-    "updated": "2026-11-12T13:05:39"
-  },
-  "#N50214": {
-    "status": "available",
-    "price": 6.6,
-    "level": 65,
-    "coll": 46,
-    "uc": 286,
-    "link": "https://t.me/ZENIX_SHOP_ON/806",
-    "updated": "2026-11-12T13:05:39"
-  },
-  "#N50215": {
-    "status": "available",
-    "price": 21.0,
-    "level": 79,
-    "coll": 62,
-    "uc": 401,
-    "link": "https://t.me/ZENIX_SHOP_ON/807",
-    "updated": "2026-11-12T13:05:39"
-  },
-  "#N50216": {
-    "status": "available",
-    "price": 16.0,
-    "level": 64,
-    "coll": 43,
-    "uc": 0,
-    "link": "https://t.me/ZENIX_SHOP_ON/808",
-    "updated": "2026-11-12T13:05:39"
-  },
-  "#N50217": {
-    "status": "available",
-    "price": 12.0,
-    "level": 62,
-    "coll": 46,
-    "uc": 363,
-    "link": "https://t.me/ZENIX_SHOP_ON/809",
-    "updated": "2026-11-12T13:05:39"
-  },
-  "#N50218": {
-    "status": "available",
-    "price": 5.0,
-    "level": 73,
-    "coll": 54,
-    "uc": 0,
-    "link": "https://t.me/ZENIX_SHOP_ON/810",
-    "updated": "2026-11-12T13:05:39"
-  },
-  "#N50219": {
-    "status": "available",
-    "price": 17.0,
-    "level": 73,
-    "coll": 52,
-    "uc": 5,
-    "link": "https://t.me/ZENIX_SHOP_ON/811",
-    "updated": "2026-11-12T13:05:39"
-  },
-  "#N50220": {
-    "status": "available",
-    "price": 24.0,
-    "level": 74,
-    "coll": 50,
-    "uc": 200,
-    "link": "https://t.me/ZENIX_SHOP_ON/812",
-    "updated": "2026-11-12T13:05:39"
-  },
-  "#N50221": {
-    "status": "available",
-    "price": 9.0,
-    "level": 71,
-    "coll": 50,
-    "uc": 280,
-    "link": "https://t.me/ZENIX_SHOP_ON/813",
-    "updated": "2026-11-12T13:05:39"
-  },
-  "#N50222": {
-    "status": "available",
-    "price": 14.5,
-    "level": 76,
-    "coll": 49,
-    "uc": 17,
-    "link": "https://t.me/ZENIX_SHOP_ON/814",
-    "updated": "2026-11-12T13:05:39"
-  },
-  "#N50223": {
-    "status": "available",
-    "price": 25.0,
-    "level": 79,
-    "coll": 62,
-    "uc": 0,
-    "link": "https://t.me/ZENIX_SHOP_ON/830",
-    "updated": "2026-11-12T13:15:21"
-  },
-  "#N50224": {
-    "status": "sold",
-    "price": null,
-    "level": null,
-    "coll": null,
-    "uc": null,
-    "link": "https://t.me/ZENIX_SHOP_ON/837",
-    "updated": "2026-11-13T18:16:50"
-  },
-  "#N50225": {
-    "status": "available",
-    "price": 16.0,
-    "level": 79,
-    "coll": 55,
-    "uc": 122,
-    "link": "https://t.me/ZENIX_SHOP_ON/834",
-    "updated": "2026-11-13T18:16:49"
-  },
-  "#N50226": {
-    "status": "available",
-    "price": 15.0,
-    "level": 68,
-    "coll": 49,
-    "uc": 360,
-    "link": "https://t.me/ZENIX_SHOP_ON/835",
-    "updated": "2026-11-13T18:16:49"
-  },
-  "#N50227": {
-    "status": "sold",
-    "price": null,
-    "level": null,
-    "coll": null,
-    "uc": null,
-    "link": "https://t.me/ZENIX_SHOP_ON/844",
-    "updated": "2026-11-13T18:16:50"
-  },
-  "#N50228": {
-    "status": "available",
-    "price": 8.0,
-    "level": 74,
-    "coll": 52,
-    "uc": 0,
-    "link": "https://t.me/ZENIX_SHOP_ON/840",
-    "updated": "2026-11-13T18:16:50"
-  },
-  "#N50229": {
-    "status": "available",
-    "price": 2.7,
-    "level": 66,
-    "coll": 37,
-    "uc": 0,
-    "link": "https://t.me/ZENIX_SHOP_ON/841",
-    "updated": "2026-11-13T18:16:50"
-  },
-  "#N50230": {
-    "status": "available",
-    "price": 8.2,
-    "level": 69,
-    "coll": 47,
-    "uc": 447,
-    "link": "https://t.me/ZENIX_SHOP_ON/842",
-    "updated": "2026-11-13T18:16:50"
-  },
-  "#N50231": {
-    "status": "available",
-    "price": 26.0,
-    "level": 73,
-    "coll": 46,
-    "uc": 81,
-    "link": "https://t.me/ZENIX_SHOP_ON/843",
-    "updated": "2026-11-13T18:16:50"
-  },
-  "#N50232": {
-    "status": "available",
-    "price": 8.0,
-    "level": 65,
-    "coll": 45,
-    "uc": 0,
-    "link": "https://t.me/ZENIX_SHOP_ON/845",
-    "updated": "2026-11-13T18:16:50"
-  },
-  "#N50233": {
-    "status": "available",
-    "price": 7.6,
-    "level": 65,
-    "coll": 49,
-    "uc": 0,
-    "link": "https://t.me/ZENIX_SHOP_ON/846",
-    "updated": "2026-11-13T18:16:50"
-  },
-  "#N50234": {
-    "status": "sold",
-    "price": null,
-    "level": null,
-    "coll": null,
-    "uc": null,
-    "link": "https://t.me/ZENIX_SHOP_ON/900",
-    "updated": "2026-11-17T16:55:37"
-  },
-  "#N50235": {
-    "status": "available",
-    "price": 25.0,
-    "level": 75,
-    "coll": 58,
-    "uc": 400,
-    "link": "https://t.me/ZENIX_SHOP_ON/848",
-    "updated": "2026-11-13T18:16:50"
-  },
-  "#N50236": {
-    "status": "available",
-    "price": 12.0,
-    "level": 76,
-    "coll": 57,
-    "uc": 0,
-    "link": "https://t.me/ZENIX_SHOP_ON/888",
-    "updated": "2026-11-17T16:54:29"
-  },
-  "#N50237": {
-    "status": "available",
-    "price": 39.0,
-    "level": 70,
-    "coll": 57,
-    "uc": 380,
-    "link": "https://t.me/ZENIX_SHOP_ON/889",
-    "updated": "2026-11-17T16:54:29"
-  },
-  "#N50238": {
-    "status": "available",
-    "price": 14.7,
-    "level": 73,
-    "coll": 59,
-    "uc": 4,
-    "link": "https://t.me/ZENIX_SHOP_ON/902",
-    "updated": "2026-11-17T18:27:57"
-  },
-  "#N50239": {
-    "status": "available",
-    "price": 3.3,
-    "level": 69,
-    "coll": 45,
-    "uc": 0,
-    "link": "https://t.me/ZENIX_SHOP_ON/903",
-    "updated": "2026-11-17T18:27:57"
-  },
-  "#N50240": {
-    "status": "available",
-    "price": 6.6,
-    "level": 70,
-    "coll": 48,
-    "uc": 3,
-    "link": "https://t.me/ZENIX_SHOP_ON/904",
-    "updated": "2026-11-17T18:27:57"
-  },
-  "#N50241": {
-    "status": "sold",
-    "price": null,
-    "level": null,
-    "coll": null,
-    "uc": null,
-    "link": "https://t.me/ZENIX_SHOP_ON/910",
-    "updated": "2026-11-17T18:27:57"
-  },
-  "#N50242": {
-    "status": "available",
-    "price": 7.4,
-    "level": 76,
-    "coll": 51,
-    "uc": 150,
-    "link": "https://t.me/ZENIX_SHOP_ON/909",
-    "updated": "2026-11-17T18:27:57"
-  },
-  "#N50246": {
-    "status": "available",
-    "price": 13.0,
-    "level": 59,
-    "coll": 42,
-    "uc": 0,
-    "link": "https://t.me/ZENIX_SHOP_ON/923",
-    "updated": "2026-11-19T12:01:52"
-  },
-  "#N50247": {
-    "status": "sold",
-    "price": null,
-    "level": null,
-    "coll": null,
-    "uc": null,
-    "link": "https://t.me/ZENIX_SHOP_ON/926",
-    "updated": "2026-11-19T12:01:53"
-  },
-  "#N50248": {
-    "status": "available",
-    "price": 34.0,
     "level": 80,
     "coll": 64,
-    "uc": 0,
-    "link": "https://t.me/ZENIX_SHOP_ON/925",
-    "updated": "2026-11-19T12:01:52"
+    "uc": 24,
+    "link": "https://t.me/ZENIX_SHOP_ON/677",
+    "updated": "2026-11-05T12:09:47"
   },
-  "#N50249": {
-    "status": "available",
-    "price": 14.0,
-    "level": 77,
-    "coll": 58,
-    "uc": 0,
-    "link": "https://t.me/ZENIX_SHOP_ON/927",
-    "updated": "2026-11-19T12:01:53"
-  },
-  "#N50250": {
-    "status": "available",
-    "price": 32.0,
-    "level": 83,
-    "coll": 66,
-    "uc": 0,
-    "link": "https://t.me/ZENIX_SHOP_ON/928",
-    "updated": "2026-11-19T12:01:53"
-  },
-  "#N50251": {
+  "#N50263": {
     "status": "sold",
     "price": null,
     "level": null,
     "coll": null,
     "uc": null,
-    "link": "https://t.me/ZENIX_SHOP_ON/934",
-    "updated": "2026-11-19T12:01:53"
+    "link": "https://t.me/ZENIX_SHOP_ON/985",
+    "updated": "2026-11-24T22:44:02"
   },
-  "#N50252": {
+  "#N50264": {
     "status": "available",
-    "price": 36.0,
-    "level": 84,
-    "coll": 67,
+    "price": 13.2,
+    "level": 78,
+    "coll": 62,
+    "uc": 2,
+    "link": "https://t.me/ZENIX_SHOP_ON/973",
+    "updated": "2026-11-24T22:44:02"
+  },
+  "#N50265": {
+    "status": "sold",
+    "price": null,
+    "level": null,
+    "coll": null,
+    "uc": null,
+    "link": "https://t.me/ZENIX_SHOP_ON/985",
+    "updated": "2026-11-24T22:44:02"
+  },
+  "#N50266": {
+    "status": "available",
+    "price": 4.1,
+    "level": 66,
+    "coll": 44,
     "uc": 0,
-    "link": "https://t.me/ZENIX_SHOP_ON/931",
-    "updated": "2026-11-19T12:01:53"
+    "link": "https://t.me/ZENIX_SHOP_ON/979",
+    "updated": "2026-11-24T22:44:02"
   },
-  "#N50253": {
+  "#N50267": {
     "status": "available",
-    "price": 11.0,
+    "price": 11.4,
+    "level": 76,
+    "coll": 58,
+    "uc": 2,
+    "link": "https://t.me/ZENIX_SHOP_ON/980",
+    "updated": "2026-11-24T22:44:02"
+  },
+  "#N50268": {
+    "status": "available",
+    "price": 10.2,
+    "level": 80,
+    "coll": 62,
+    "uc": 0,
+    "link": "https://t.me/ZENIX_SHOP_ON/983",
+    "updated": "2026-11-24T22:44:02"
+  },
+  "#N50269": {
+    "status": "available",
+    "price": 6.0,
+    "level": 53,
+    "coll": 36,
+    "uc": 646,
+    "link": "https://t.me/ZENIX_SHOP_ON/984",
+    "updated": "2026-11-24T22:44:02"
+  },
+  "#N50270": {
+    "status": "available",
+    "price": 13.0,
     "level": 79,
-    "coll": 55,
-    "uc": 2,
-    "link": "https://t.me/ZENIX_SHOP_ON/932",
-    "updated": "2026-11-19T12:01:53"
-  },
-  "#N50254": {
-    "status": "available",
-    "price": 6.6,
-    "level": 72,
-    "coll": 51,
+    "coll": 60,
     "uc": 4,
-    "link": "https://t.me/ZENIX_SHOP_ON/933",
-    "updated": "2026-11-19T12:01:53"
-  },
-  "#N50255": {
-    "status": "available",
-    "price": 6.5,
-    "level": 76,
-    "coll": 50,
-    "uc": 2,
-    "link": "https://t.me/ZENIX_SHOP_ON/935",
-    "updated": "2026-11-19T12:01:53"
-  },
-  "#N50256": {
-    "status": "available",
-    "price": 2.9,
-    "level": 71,
-    "coll": 37,
-    "uc": 1,
-    "link": "https://t.me/ZENIX_SHOP_ON/936",
-    "updated": "2026-11-19T12:01:53"
-  },
-  "#N50257": {
-    "status": "available",
-    "price": 12.0,
-    "level": 76,
-    "coll": 54,
-    "uc": 0,
-    "link": "https://t.me/ZENIX_SHOP_ON/937",
-    "updated": "2026-11-19T12:01:53"
+    "link": "https://t.me/ZENIX_SHOP_ON/987",
+    "updated": "2026-11-24T22:44:02"
   }
 }
